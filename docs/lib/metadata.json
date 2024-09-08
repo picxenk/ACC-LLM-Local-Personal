@@ -1,81 +1,11 @@
 {
   "vaultName": "ACC-LLM-Local-Personal",
-  "lastExport": 1725781350743,
+  "lastExport": 1725784136790,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "docs/lib/fonts/2d5198822ab091ce4305.woff2",
-    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
-    "docs/lib/fonts/94f2f163d4b698242fef.otf",
-    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
-    "docs/lib/fonts/454577c22304619db035.ttf",
-    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/lib/html/file-tree.html",
-    "docs/lib/media/874d8b8e340f75575caa.svg",
-    "docs/lib/media/favicon.png",
-    "docs/lib/scripts/graph-data.js",
-    "docs/lib/scripts/graph-render-worker.js",
-    "docs/lib/scripts/graph-view.js",
-    "docs/lib/scripts/graph-wasm.wasm",
-    "docs/lib/scripts/graph-wasm.js",
-    "docs/lib/scripts/minisearch.js",
-    "docs/lib/scripts/pixi.js",
-    "docs/lib/scripts/tinycolor.js",
-    "docs/lib/scripts/webpage.js",
-    "docs/lib/styles/global-variable-styles.css",
-    "docs/lib/styles/main-styles.css",
-    "docs/lib/styles/obsidian.css",
-    "docs/lib/metadata.json",
-    "docs/lib/rss.xml",
-    "docs/lib/search-index.json",
-    "docs/license/license.",
-    "docs/18명의-공동-창작자.html",
-    "docs/black-wing.html",
-    "docs/danger!.html",
-    "docs/index.html",
-    "docs/readme.html",
-    "docs/untitled.html",
-    "docs/간식과-커피타임.html",
-    "docs/고학능.html",
-    "docs/김성열.html",
-    "docs/김승범.html",
-    "docs/김지연.html",
-    "docs/느슨하게-프로그래밍하자.html",
-    "docs/류범열.html",
-    "docs/매미를-생각해.html",
-    "docs/맥미니의-추억.html",
-    "docs/맥주.html",
-    "docs/무료버전을-사용하자.html",
-    "docs/박정훈.html",
-    "docs/반대-방향-자전거.html",
-    "docs/빨간의자.html",
-    "docs/상자에넣다.html",
-    "docs/서미림.html",
-    "docs/서지수.html",
-    "docs/신지인.html",
-    "docs/양윤승.html",
-    "docs/연필-깎기.html",
-    "docs/연필을-생각해.html",
-    "docs/열-번째-사람!.html",
-    "docs/오렌지쥬스를-떠올려.html",
-    "docs/유형준.html",
-    "docs/이지웅.html",
-    "docs/인생이-꼬이다.html",
-    "docs/임지성.html",
-    "docs/정라온.html",
-    "docs/조형섭.html",
-    "docs/지극히-지역적이고-개인적인-언어.html",
-    "docs/피자먹자.html",
-    "docs/허택.html",
     "18명의 공동 창작자.md",
     "Black Wing.md",
     "DANGER!.md",
@@ -177,831 +107,411 @@
   ],
   "fileInfo": {
     "18명의 공동 창작자.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 250,
       "exportedPath": "18명의-공동-창작자.html",
       "dependencies": []
     },
     "Black Wing.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 71,
       "exportedPath": "black-wing.html",
       "dependencies": []
     },
     "DANGER!.md": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 262,
       "exportedPath": "danger!.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 251,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "LICENSE": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 7048,
       "exportedPath": "license/license.",
       "dependencies": []
     },
     "README.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 256,
       "exportedPath": "readme.html",
       "dependencies": []
     },
     "Untitled.canvas": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 2,
       "exportedPath": "untitled.html",
       "dependencies": []
     },
     "간식과 커피타임.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 145,
       "exportedPath": "간식과-커피타임.html",
       "dependencies": []
     },
     "고학능.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 34,
       "exportedPath": "고학능.html",
       "dependencies": []
     },
+    "구글 시트 켜.md": {
+      "modifiedTime": 1725784136790,
+      "sourceSize": 0,
+      "exportedPath": "구글-시트-켜.html",
+      "dependencies": []
+    },
     "김성열.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 0,
       "exportedPath": "김성열.html",
       "dependencies": []
     },
     "김승범.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 43,
       "exportedPath": "김승범.html",
       "dependencies": []
     },
     "김지연.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 28,
       "exportedPath": "김지연.html",
       "dependencies": []
     },
     "느슨하게 프로그래밍하자.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 118,
       "exportedPath": "느슨하게-프로그래밍하자.html",
       "dependencies": []
     },
     "류범열.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 90,
       "exportedPath": "류범열.html",
       "dependencies": []
     },
     "매미를 생각해.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 487,
       "exportedPath": "매미를-생각해.html",
       "dependencies": []
     },
     "맥미니의 추억.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 125,
       "exportedPath": "맥미니의-추억.html",
       "dependencies": []
     },
     "맥주.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 95,
       "exportedPath": "맥주.html",
       "dependencies": []
     },
     "무료버전을 사용하자.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 115,
       "exportedPath": "무료버전을-사용하자.html",
       "dependencies": []
     },
     "박정훈.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 115,
       "exportedPath": "박정훈.html",
       "dependencies": []
     },
     "반대 방향 자전거.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 168,
       "exportedPath": "반대-방향-자전거.html",
       "dependencies": []
     },
     "빨간의자.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 144,
       "exportedPath": "빨간의자.html",
       "dependencies": []
     },
     "상자에넣다.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 139,
       "exportedPath": "상자에넣다.html",
       "dependencies": []
     },
     "서미림.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 27,
       "exportedPath": "서미림.html",
       "dependencies": []
     },
     "서지수.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 26,
       "exportedPath": "서지수.html",
       "dependencies": []
     },
     "신지인.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 101,
       "exportedPath": "신지인.html",
       "dependencies": []
     },
     "양윤승.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 33,
       "exportedPath": "양윤승.html",
       "dependencies": []
     },
     "연필 깎기.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 89,
       "exportedPath": "연필-깎기.html",
       "dependencies": []
     },
     "연필을 생각해.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 122,
       "exportedPath": "연필을-생각해.html",
       "dependencies": []
     },
     "열 번째 사람!.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 165,
       "exportedPath": "열-번째-사람!.html",
       "dependencies": []
     },
     "오렌지쥬스를 떠올려.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 151,
       "exportedPath": "오렌지쥬스를-떠올려.html",
       "dependencies": []
     },
     "유형준.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 36,
       "exportedPath": "유형준.html",
       "dependencies": []
     },
     "이지웅.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 58,
       "exportedPath": "이지웅.html",
       "dependencies": []
     },
     "인생이 꼬이다.md": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 117,
       "exportedPath": "인생이-꼬이다.html",
       "dependencies": []
     },
     "임지성.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 44,
       "exportedPath": "임지성.html",
       "dependencies": []
     },
     "정라온.md": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 40,
       "exportedPath": "정라온.html",
       "dependencies": []
     },
     "조형섭.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 33,
       "exportedPath": "조형섭.html",
       "dependencies": []
     },
     "지극히 지역적이고 개인적인 언어.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 0,
       "exportedPath": "지극히-지역적이고-개인적인-언어.html",
       "dependencies": []
     },
     "피자먹자.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 68,
       "exportedPath": "피자먹자.html",
       "dependencies": []
     },
     "허택.md": {
-      "modifiedTime": 1725781017032,
+      "modifiedTime": 1725784136790,
       "sourceSize": 0,
       "exportedPath": "허택.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 42873,
+      "modifiedTime": 1725784136790,
+      "sourceSize": 12879,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 2085,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 253,
+      "modifiedTime": 1725784136790,
+      "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1725781350743,
+      "modifiedTime": 1725784136790,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "docs/lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 104332,
-      "exportedPath": "docs/lib/fonts/2d5198822ab091ce4305.woff2",
-      "dependencies": []
-    },
-    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 7876,
-      "exportedPath": "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-      "dependencies": []
-    },
-    "docs/lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 155288,
-      "exportedPath": "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-      "dependencies": []
-    },
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 191568,
-      "exportedPath": "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-      "dependencies": []
-    },
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 192740,
-      "exportedPath": "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
-      "dependencies": []
-    },
-    "docs/lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 66800,
-      "exportedPath": "docs/lib/fonts/94f2f163d4b698242fef.otf",
-      "dependencies": []
-    },
-    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 111708,
-      "exportedPath": "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
-      "dependencies": []
-    },
-    "docs/lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 104232,
-      "exportedPath": "docs/lib/fonts/72505e6a122c6acd5471.woff2",
-      "dependencies": []
-    },
-    "docs/lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 161376,
-      "exportedPath": "docs/lib/fonts/454577c22304619db035.ttf",
-      "dependencies": []
-    },
-    "docs/lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 105804,
-      "exportedPath": "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-      "dependencies": []
-    },
-    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 98868,
-      "exportedPath": "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-      "dependencies": []
-    },
-    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 106876,
-      "exportedPath": "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-      "dependencies": []
-    },
-    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 106108,
-      "exportedPath": "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-      "dependencies": []
-    },
-    "docs/lib/html/file-tree.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 13209,
-      "exportedPath": "docs/lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "docs/lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 317,
-      "exportedPath": "docs/lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "docs/lib/media/favicon.png": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 1105,
-      "exportedPath": "docs/lib/media/favicon.png",
-      "dependencies": []
-    },
-    "docs/lib/scripts/graph-data.js": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 2637,
-      "exportedPath": "docs/lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "docs/lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 5179,
-      "exportedPath": "docs/lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "docs/lib/scripts/graph-view.js": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 15519,
-      "exportedPath": "docs/lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "docs/lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 23377,
-      "exportedPath": "docs/lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
-    "docs/lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14021,
-      "exportedPath": "docs/lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "docs/lib/scripts/minisearch.js": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 29422,
-      "exportedPath": "docs/lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "docs/lib/scripts/pixi.js": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 449511,
-      "exportedPath": "docs/lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "docs/lib/scripts/tinycolor.js": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 29832,
-      "exportedPath": "docs/lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "docs/lib/scripts/webpage.js": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 47290,
-      "exportedPath": "docs/lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "docs/lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 253,
-      "exportedPath": "docs/lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "docs/lib/styles/main-styles.css": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 23130,
-      "exportedPath": "docs/lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "docs/lib/styles/obsidian.css": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 130220,
-      "exportedPath": "docs/lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "docs/lib/metadata.json": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 15282,
-      "exportedPath": "docs/lib/metadata.json",
-      "dependencies": []
-    },
-    "docs/lib/rss.xml": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 19720,
-      "exportedPath": "docs/lib/rss.xml",
-      "dependencies": []
-    },
-    "docs/lib/search-index.json": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 23064,
-      "exportedPath": "docs/lib/search-index.json",
-      "dependencies": []
-    },
-    "docs/license/license.": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 0,
-      "exportedPath": "docs/license/license.",
-      "dependencies": []
-    },
-    "docs/18명의-공동-창작자.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 16167,
-      "exportedPath": "docs/18명의-공동-창작자.html",
-      "dependencies": []
-    },
-    "docs/black-wing.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14165,
-      "exportedPath": "docs/black-wing.html",
-      "dependencies": []
-    },
-    "docs/danger!.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14340,
-      "exportedPath": "docs/danger!.html",
-      "dependencies": []
-    },
-    "docs/index.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14579,
-      "exportedPath": "docs/index.html",
-      "dependencies": []
-    },
-    "docs/readme.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14585,
-      "exportedPath": "docs/readme.html",
-      "dependencies": []
-    },
-    "docs/untitled.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 19521,
-      "exportedPath": "docs/untitled.html",
-      "dependencies": []
-    },
-    "docs/간식과-커피타임.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14369,
-      "exportedPath": "docs/간식과-커피타임.html",
-      "dependencies": []
-    },
-    "docs/고학능.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 13945,
-      "exportedPath": "docs/고학능.html",
-      "dependencies": []
-    },
-    "docs/김성열.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 13856,
-      "exportedPath": "docs/김성열.html",
-      "dependencies": []
-    },
-    "docs/김승범.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14073,
-      "exportedPath": "docs/김승범.html",
-      "dependencies": []
-    },
-    "docs/김지연.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14039,
-      "exportedPath": "docs/김지연.html",
-      "dependencies": []
-    },
-    "docs/느슨하게-프로그래밍하자.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14474,
-      "exportedPath": "docs/느슨하게-프로그래밍하자.html",
-      "dependencies": []
-    },
-    "docs/류범열.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14217,
-      "exportedPath": "docs/류범열.html",
-      "dependencies": []
-    },
-    "docs/매미를-생각해.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14827,
-      "exportedPath": "docs/매미를-생각해.html",
-      "dependencies": []
-    },
-    "docs/맥미니의-추억.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14318,
-      "exportedPath": "docs/맥미니의-추억.html",
-      "dependencies": []
-    },
-    "docs/맥주.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14143,
-      "exportedPath": "docs/맥주.html",
-      "dependencies": []
-    },
-    "docs/무료버전을-사용하자.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14405,
-      "exportedPath": "docs/무료버전을-사용하자.html",
-      "dependencies": []
-    },
-    "docs/박정훈.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14464,
-      "exportedPath": "docs/박정훈.html",
-      "dependencies": []
-    },
-    "docs/반대-방향-자전거.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14405,
-      "exportedPath": "docs/반대-방향-자전거.html",
-      "dependencies": []
-    },
-    "docs/빨간의자.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14284,
-      "exportedPath": "docs/빨간의자.html",
-      "dependencies": []
-    },
-    "docs/상자에넣다.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14287,
-      "exportedPath": "docs/상자에넣다.html",
-      "dependencies": []
-    },
-    "docs/서미림.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14027,
-      "exportedPath": "docs/서미림.html",
-      "dependencies": []
-    },
-    "docs/서지수.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14038,
-      "exportedPath": "docs/서지수.html",
-      "dependencies": []
-    },
-    "docs/신지인.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14237,
-      "exportedPath": "docs/신지인.html",
-      "dependencies": []
-    },
-    "docs/양윤승.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 13918,
-      "exportedPath": "docs/양윤승.html",
-      "dependencies": []
-    },
-    "docs/연필-깎기.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14216,
-      "exportedPath": "docs/연필-깎기.html",
-      "dependencies": []
-    },
-    "docs/연필을-생각해.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14341,
-      "exportedPath": "docs/연필을-생각해.html",
-      "dependencies": []
-    },
-    "docs/열-번째-사람!.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14401,
-      "exportedPath": "docs/열-번째-사람!.html",
-      "dependencies": []
-    },
-    "docs/오렌지쥬스를-떠올려.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14439,
-      "exportedPath": "docs/오렌지쥬스를-떠올려.html",
-      "dependencies": []
-    },
-    "docs/유형준.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14054,
-      "exportedPath": "docs/유형준.html",
-      "dependencies": []
-    },
-    "docs/이지웅.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 15229,
-      "exportedPath": "docs/이지웅.html",
-      "dependencies": []
-    },
-    "docs/인생이-꼬이다.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14062,
-      "exportedPath": "docs/인생이-꼬이다.html",
-      "dependencies": []
-    },
-    "docs/임지성.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14162,
-      "exportedPath": "docs/임지성.html",
-      "dependencies": []
-    },
-    "docs/정라온.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 13900,
-      "exportedPath": "docs/정라온.html",
-      "dependencies": []
-    },
-    "docs/조형섭.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 13915,
-      "exportedPath": "docs/조형섭.html",
-      "dependencies": []
-    },
-    "docs/지극히-지역적이고-개인적인-언어.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14252,
-      "exportedPath": "docs/지극히-지역적이고-개인적인-언어.html",
-      "dependencies": []
-    },
-    "docs/피자먹자.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 14181,
-      "exportedPath": "docs/피자먹자.html",
-      "dependencies": []
-    },
-    "docs/허택.html": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 13823,
-      "exportedPath": "docs/허택.html",
-      "dependencies": []
-    },
-    "구글 시트 켜.md": {
-      "modifiedTime": 1725781350743,
-      "sourceSize": 0,
-      "exportedPath": "구글-시트-켜.html",
       "dependencies": []
     }
   }
