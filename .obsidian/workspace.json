@@ -14,10 +14,14 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "서지수.md",
 =======
                 "file": "유형준.md",
 >>>>>>> 89e34775df8c8931de6eb564bb2be32750bbd15b
+=======
+                "file": "임지성.md",
+>>>>>>> 99a04aee68c0b6a02d0c62db9f5d173d60c00880
                 "mode": "source",
                 "source": false
               }
@@ -90,10 +94,14 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "서지수.md",
 =======
                 "file": "유형준.md",
 >>>>>>> 89e34775df8c8931de6eb564bb2be32750bbd15b
+=======
+                "file": "임지성.md",
+>>>>>>> 99a04aee68c0b6a02d0c62db9f5d173d60c00880
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +119,14 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "서지수.md",
 =======
                 "file": "유형준.md",
 >>>>>>> 89e34775df8c8931de6eb564bb2be32750bbd15b
+=======
+                "file": "임지성.md",
+>>>>>>> 99a04aee68c0b6a02d0c62db9f5d173d60c00880
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +150,14 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "서지수.md"
 =======
                 "file": "유형준.md"
 >>>>>>> 89e34775df8c8931de6eb564bb2be32750bbd15b
+=======
+                "file": "임지성.md"
+>>>>>>> 99a04aee68c0b6a02d0c62db9f5d173d60c00880
               }
             }
           }
@@ -172,17 +188,18 @@
 =======
     "허택.md",
     "조형섭.md",
-    "임지성.md",
     "유형준.md",
     "양윤승.md",
+<<<<<<< HEAD
     "서지수.md",
 >>>>>>> 89e34775df8c8931de6eb564bb2be32750bbd15b
+=======
+>>>>>>> 99a04aee68c0b6a02d0c62db9f5d173d60c00880
     "서미림.md",
-    "박정훈.md",
     "류범열.md",
-    "김승범.md",
     "김성열.md",
     "고학능.md",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "유형준.md",
     "임지성.md",
@@ -190,7 +207,13 @@
     "서지수.md",
 =======
 >>>>>>> 89e34775df8c8931de6eb564bb2be32750bbd15b
+=======
+    "서지수.md",
+    "박정훈.md",
+>>>>>>> 99a04aee68c0b6a02d0c62db9f5d173d60c00880
     "18명의 공동 창작자.md",
+    "임지성.md",
+    "김승범.md",
     "README.md",
     "지극히 지역적이고 개인적인 언어.md",
     "personal LLM.md",
