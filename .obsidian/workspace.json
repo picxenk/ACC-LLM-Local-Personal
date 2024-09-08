@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유형준.md",
+                "file": "서미림.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유형준.md",
+                "file": "서미림.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유형준.md",
+                "file": "서미림.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유형준.md"
+                "file": "서미림.md"
               }
             }
           }
@@ -150,17 +150,17 @@
   "lastOpenFiles": [
     "허택.md",
     "조형섭.md",
-    "임지성.md",
-    "유형준.md",
     "양윤승.md",
-    "서지수.md",
-    "서미림.md",
-    "박정훈.md",
     "류범열.md",
-    "김승범.md",
     "김성열.md",
     "고학능.md",
+    "임지성.md",
+    "유형준.md",
+    "서지수.md",
     "18명의 공동 창작자.md",
+    "서미림.md",
+    "박정훈.md",
+    "김승범.md",
     "README.md",
     "지극히 지역적이고 개인적인 언어.md",
     "personal LLM.md",
